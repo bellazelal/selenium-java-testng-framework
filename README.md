@@ -132,11 +132,11 @@ Perfect for interviews, portfolio, and QA practice
 ▶️ How to Run
 UI Tests:
 bash
-Copy code
+
 Run -> SauceDemoRunner.java
 API Tests:
 bash
-Copy code
+
 Run -> ApiRunner.java
 
 
@@ -145,6 +145,7 @@ Name: Bella Zelal Yildiz
 GitHub: @bellazelal
 Role: QA Automation Engineer / SDET
 Skills: Java · Selenium · TestNG · Cucumber · RestAssured · API & UI Testing
+
 
 
 
